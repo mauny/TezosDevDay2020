@@ -30,6 +30,7 @@ The program will be refined in the next days, and an email message will be sent 
 * **SmartPy**, by Roland Zumkeller
 * **Migrating from Solidity to LIGO for a greater good**, by Julian Konchunas, Anastasiia Kondaurova and Sergii Glushkovskyi (Madfish Solutions)
 * **Implementing a partial token contract on Tezos with TZIP-12** by Matej Sima (Stove Labs)
+* **DEXter**, by James Haver (camlCase)
 * **Building a simple dApp**, by Alexandre Doussot (Nomadic Labs)
 * **Truffle and Tezos**, by Cruz Molina (Truffle)
 
