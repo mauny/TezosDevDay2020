@@ -1,31 +1,6 @@
-#   Tezos Developers' Day 2020
-subtitle: Paris, Maison de la Mutualité
-date: March 6, 2020
-author:
-#institute: My Institute
-#abstract: The abstract of the document
-#    on several lines
-#keywords: Kwd1, kwd2
-# Variables
-lang: en
-#extra: \usepackage[default,scale=0.8]{cantarell}
-#linestretch: 0.75
-fancyhdr: yes
-footleft: <:shell< basename $(pwd) | sed -e 's/-[^0-9]*$//' >>
-footright: \thepage/\pageref{LastPage}
-footcenter: TAC
-package: charter
-subparagraph: yes
-colorlinks: yes
-colorsections: red
-colorsubsections: blue
-subparagraph: yes
-colorlinks: yes
-colorsections: red
-colorsubsections: blue
-...
-
-## Tezos DevDay, March 6th, 2020
+# Tezos Developers' Day 2020
+## Paris, Maison de la Mutualité
+## March 6, 2020
 
 ### What
 
