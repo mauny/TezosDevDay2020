@@ -3,6 +3,14 @@
 ### Paris, Maison de la Mutualité
 ### March 6, 2020
 
+<p align="center">
+  <img width="10%" src="https://nomadic-labs.com/images/logo.png" alt="Nomadic Labs logo">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="10%" src="./images/tezos.png" alt="Tezos logo">
+</p>
+
+![Nomadic Labs logo](https://nomadic-labs.com/images/logo.png){width=10%}                      ![Tezos logo](images/tezos.png){width=10%}
+
 ### What
 
 This Tezos Developers Day aims to gather developers from the blockchain space during one day in Paris, around tutorial presentations and discussions.
