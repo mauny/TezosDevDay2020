@@ -23,17 +23,18 @@ There will be coffee breaks, but participants will be on their own for lunch (th
 
 The program will be refined in the next days, and an email message will be sent with the final version of the program.
 
-* 09:00 - **Welcome**
+* 00:00 - _Welcome_
+* 09:00 - **Tezos _vs._ Ethereum**, Adrian Brink (Cryptium Labs)
+* 09:45 - **LIGO**, Christian Rinderknecht and Rémi Lesénéchal (LIGO)
+* 10:15 _ _Coffee Break_
+* 11:00 - **SmartPy**, Roland Zumkeller
+* 11:45 - **Migrating from Solidity to LIGO for a greater good**, Julian Konchunas, Anastasiia Kondaurova and Sergii Glushkovskyi (Madfish Solutions)
+* 12:30 - _Lunch Break_
+* 14:00 - **Implementing a partial token contract on Tezos with TZIP-12** Matej Sima (Stove Labs)
+* 14:45 - **Dexter: a Decentralized Exchange for Tezos by camlCase**, James Haver (camlCase)
+* 15:30 - _Coffee Break_
+* 16:00 - **Building a simple dApp**, Alexandre Doussot (Nomadic Labs)
+* 16:45 - **Truffle and Tezos**, Cruz Molina (Truffle)
+* 17:00 - _Closing_
 
-* **Tezos _vs._ Ethereum**, by Adrian Brink (Cryptium Labs)
-* **LIGO**, by Christian Rinderknecht, Rémi Lesénéchal (LIGO)
-* **SmartPy**, by Roland Zumkeller
-* **Migrating from Solidity to LIGO for a greater good**, by Julian Konchunas, Anastasiia Kondaurova and Sergii Glushkovskyi (Madfish Solutions)
-* **Implementing a partial token contract on Tezos with TZIP-12** by Matej Sima (Stove Labs)
-* **DEXter**, by James Haver (camlCase)
-* **Building a simple dApp**, by Alexandre Doussot (Nomadic Labs)
-* **Truffle and Tezos**, by Cruz Molina (Truffle)
-
-*  17:00 - **Closing**
-
-### Register, come, discover how to develop on Tezos, and meet other developers!
+### Register, participate, discover how to develop on Tezos, and meet other developers!
