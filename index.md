@@ -1,4 +1,4 @@
- <h1 style="color:blue;text-align:center">Tezos Developers Day 2020</h1>
+<h1 align="center">Tezos Developers Day 2020</h1>
 
 <p align="center">
   Paris, Maison de la Mutualité<br/>
