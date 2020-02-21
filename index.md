@@ -1,7 +1,6 @@
 <h1 align="center">Tezos Developers Day 2020</h1>
 
-<p><br/></p>
-
+<p> </p>
 <p align="center">
   <b><a href="https://www.maisondelamutualite.com/en">Maison de la Mutualité</a><br/>, Paris</b>
   March 6, 2020<br/>
