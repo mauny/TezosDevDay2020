@@ -1,8 +1,8 @@
 <h1 align="center">Tezos Developers Day 2020</h1>
 
 <p> </p>
-<p align="center">
-  <b><a href="https://www.maisondelamutualite.com/en">Maison de la Mutualité</a><br/>, Paris</b>
+<p align="center" style="font-weight:bold">
+  <a href="https://www.maisondelamutualite.com/en">Maison de la Mutualité</a><br/>, Paris
   March 6, 2020<br/>
   <img width="20%" src="https://nomadic-labs.com/images/logo.png" alt="Nomadic Labs logo">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
