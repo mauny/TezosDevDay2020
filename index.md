@@ -26,7 +26,7 @@ The program will be refined in the next days, and an email message will be sent 
 * 09:00 - _Welcome_
 * 09:00 - **Tezos _vs._ Ethereum**, Adrian Brink (Cryptium Labs)
 * 09:45 - **LIGO**, Christian Rinderknecht and Rémi Lesénéchal (LIGO)
-* 10:15 - _Coffee Break_
+* 10:30 - _Coffee Break_
 * 11:00 - **SmartPy**, Roland Zumkeller
 * 11:45 - **Migrating from Solidity to LIGO for a greater good**, Julian Konchunas, Anastasiia Kondaurova and Sergii Glushkovskyi (Madfish Solutions)
 * 12:30 - _Lunch Break_
