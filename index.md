@@ -1,9 +1,8 @@
-# Tezos Developers Day 2020
-
-### Paris, Maison de la Mutualité
-### March 6, 2020
+ <h1 style="color:blue;text-align:center">Tezos Developers Day 2020</h1>
 
 <p align="center">
+  Paris, Maison de la Mutualité<br/>
+  March 6, 2020<br/>
   <img width="20%" src="https://nomadic-labs.com/images/logo.png" alt="Nomadic Labs logo">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="20%" src="./images/tezos.png" alt="Tezos logo">
